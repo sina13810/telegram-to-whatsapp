@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65f64d55-7408-4548-aba8-7c507a42877a" name="whatsapp4">
+        <fileTransfer accessType="SFTP" host="37.220.26.139" port="22" sshConfigId="4ea474e7-9109-4ea2-8abd-cbca195d631c" sshConfig="kaffash4">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
